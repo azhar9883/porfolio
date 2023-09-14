@@ -1,0 +1,102 @@
+.service-item {
+    padding: 0;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+    min-height: 1px;
+    min-height: 236px;
+    text-align: left;
+}
+
+.service-item .card-box {
+
+
+    position: relative;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    -khtml-box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    border-radius: 18px;
+    -moz-border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -khtml-border-radius: 18px;
+    transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+}
+
+.icon1 {
+    margin-left: 12px;
+    width: auto;
+    height: 30px;
+    line-height: 50px;
+    font-size: 50px;
+    color: var(--bg-color);
+}
+
+.name2 {
+    margin: 10px 0 10px 0;
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+p {
+    font-size: 15px;
+    line-height: 1.7;
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+
+CSSResult Skip Results Iframe EDIT ON .box h3 {
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+
+.box {
+    box-shadow: 12px 12px 12p 12px;
+    width: 105%;
+    height: 234px;
+    background: rgb(51, 54, 58);
+    margin: 35px auto;
+    border-radius: 12px;
+}
+
+.card-inner .card-box {
+
+    position: relative;
+    padding-bottom: 25px;
+    padding-top: 23px;
+    box-shadow: 12px 0 50px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    -khtml-box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    border-radius: 18px;
+    -moz-border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -khtml-border-radius: 18px;
+    transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+}
+
+
+.service-item .card-box {
+    position: relative;
+
+    background-color: none !important;
+    border-radius: 18px;
+    -moz-border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -khtml-border-radius: 18px;
+    transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+}
